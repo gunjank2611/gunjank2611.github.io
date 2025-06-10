@@ -1,6 +1,6 @@
 ---
 layout: categories_article
-title: My Writing
+title: Posts
 author_profile: true
 author: Gunjan
 ---
