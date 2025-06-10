@@ -10,10 +10,16 @@ author_profile: true
 author: Gunjan
 categories: [article]
 header:
+<<<<<<< HEAD
     overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
     teaser: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
     caption: "Photo credit: [**Unsplash: Firosnv. Photography**](https://unsplash.com/@firosnv)"
    
+=======
+    overlay_image: https://media.licdn.com/dms/image/v2/D5612AQGxibZrUHiLLA/article-cover_image-shrink_720_1280/B56ZcMzhAxGoAI-/0/1748266521622?e=2147483647&amp;v=beta&amp;t=dCrImX_2oh9IVBxqFPJZL1A0M12F6m_aAKNCTMEWStI
+    teaser: https://media.licdn.com/dms/image/v2/D5612AQGxibZrUHiLLA/article-cover_image-shrink_720_1280/B56ZcMzhAxGoAI-/0/1748266521622?e=2147483647&amp;v=beta&amp;t=dCrImX_2oh9IVBxqFPJZL1A0M12F6m_aAKNCTMEWStI
+    caption: "Kubernetes Security"
+>>>>>>> 948fe3a (page)
 description: In the world of Kubernetes, Admission Controllers are the silent gatekeepers—ensuring that what enters your cluster complies with the pre-defined set of rules. Lets see what we all need to know to achieve our organization’s standards and best practices before the first pod is even created.
 ---
 <html class="cls-fix-enabled" lang="en">
