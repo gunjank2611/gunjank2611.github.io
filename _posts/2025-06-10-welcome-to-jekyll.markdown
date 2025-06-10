@@ -1,19 +1,19 @@
 ---
 layout: posts
-title:  "Part 3: How to win at a hackathon"
-tagline: "Casting the 'Dots'wide and far"
-date:   2023-06-21 19:13:27 -0500
+title:  "Kubernetes Admission Controllers"
+tagline: "Demystifying kubernetes security"
+date:   2025-06-21 19:13:27 -0500
 tags: [hackathon]
 author_profile: true
-author: Leigh Stewardson
+author: Gunjan
 author_profile: true
-author: Leigh Stewardson
+author: Gunjan
 categories: [article]
 header:
-    overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
-    teaser: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
-    caption: "Photo credit: [**Unsplash: Firosnv. Photography**](https://unsplash.com/@firosnv)"
-description: This series of articles explores how to win at a hackathon even if you don't win the hackathon itself. The third post explores how to build on your momentum and push your hackathon ideas out into the world.
+    overlay_image: https://media.licdn.com/dms/image/v2/D5612AQGxibZrUHiLLA/article-cover_image-shrink_720_1280/B56ZcMzhAxGoAI-/0/1748266521622?e=2147483647&amp;v=beta&amp;t=dCrImX_2oh9IVBxqFPJZL1A0M12F6m_aAKNCTMEWStI
+    teaser: https://media.licdn.com/dms/image/v2/D5612AQGxibZrUHiLLA/article-cover_image-shrink_720_1280/B56ZcMzhAxGoAI-/0/1748266521622?e=2147483647&amp;v=beta&amp;t=dCrImX_2oh9IVBxqFPJZL1A0M12F6m_aAKNCTMEWStI
+    caption: "Kubernetes Security"
+description: In the world of Kubernetes, Admission Controllers are the silent gatekeepers—ensuring that what enters your cluster complies with the pre-defined set of rules. Lets see what we all need to know to achieve our organization’s standards and best practices before the first pod is even created.
 ---
 <html class="cls-fix-enabled" lang="en">
 <head>
