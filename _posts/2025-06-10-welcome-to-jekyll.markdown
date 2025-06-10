@@ -1,8 +1,19 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-06-10 14:07:30 +0000
-categories: jekyll update
+layout: posts
+title:  "Part 3: How to win at a hackathon"
+tagline: "Casting the 'Dots'wide and far"
+date:   2023-06-21 19:13:27 -0500
+tags: [hackathon]
+author_profile: true
+author: Leigh Stewardson
+author_profile: true
+author: Leigh Stewardson
+categories: [article]
+header:
+    overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
+    teaser: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
+    caption: "Photo credit: [**Unsplash: Firosnv. Photography**](https://unsplash.com/@firosnv)"
+description: This series of articles explores how to win at a hackathon even if you don't win the hackathon itself. The third post explores how to build on your momentum and push your hackathon ideas out into the world.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
