@@ -1,18 +1,27 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Cloud Engineer | Devops | SRE
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+With a deep understanding of cloud resources I drive automation, focusing on end-to-end deployments of microservices, serverless offerings like lambda and dynamodb, distributed data management using Kafka, and observability tools like Prometheus, Grafana and elastic search. 
+
+Because of my work, I have received accolades and recognition and in my recent most projects I have gained experience in performing continuous integration and continuous deployment (CI/CD) tasks and automating infrastructure using terraform and Cloud formation. I also have programming experience in Java, typescript and Python.
+
+Furthermore, I have undergone professional trainings to imbibe good level of understanding for my niche and I am a recognized Associate certified from tech-giants like Microsoft, Amazon Web Services and Oracle. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+## My Story
+
+{% include mystory.md %}
+
+
+### Skills
+
+{% include technicalskills.md %}
+
+
